@@ -1,7 +1,24 @@
-frieze
-======
+# Friezes
+
 
 Friezes are ornaments.
 
-![This text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Meanders.jpg "What text 1")
+![frieze1](https://upload.wikimedia.org/wikipedia/de/d/d5/Teppichfries.jpg "A piece of carpet.")
+
+## Links
+
+
+### English
+
+- https://en.wikipedia.org/wiki/Frieze_group
+
+
+### German
+
+The German Wikipedia has more to say about friezes (and more pictures).
+
+- https://de.wikipedia.org/wiki/Fries
+- https://de.wikipedia.org/wiki/Volutenranke
+- https://de.wikipedia.org/wiki/Friesgruppe
+
 
